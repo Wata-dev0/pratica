@@ -1,3 +1,10 @@
+//#region  enunciado
+/*
+Olá, só uma observação. como são todos modelos para se olhar, não tem nenhuma chamada de função.
+*/
+//#endregion
+
+
 const nums = [3, 8, 2, 6, 7];  // Primeiro array de números
 const nums2 = [1, 2, 3, 4, 5]; // Segundo array de números
 let max = nums[0]  // Variável para armazenar o maior número
